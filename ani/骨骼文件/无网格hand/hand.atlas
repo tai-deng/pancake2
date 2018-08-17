@@ -1,0 +1,34 @@
+
+hand.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cake
+  rotate: false
+  xy: 2, 2
+  size: 168, 28
+  orig: 168, 28
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 178
+  size: 463, 66
+  orig: 463, 66
+  offset: 0, 0
+  index: -1
+lower_arm
+  rotate: true
+  xy: 323, 33
+  size: 143, 206
+  orig: 143, 206
+  offset: 0, 0
+  index: -1
+upper_arm
+  rotate: true
+  xy: 2, 32
+  size: 144, 319
+  orig: 152, 324
+  offset: 1, 0
+  index: -1

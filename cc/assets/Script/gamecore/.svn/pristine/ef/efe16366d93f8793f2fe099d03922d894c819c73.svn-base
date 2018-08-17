@@ -1,0 +1,39 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES6",
+        "strict": false, 
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": false,
+        // "inlineSourceMap":true,
+        // "inlineSources":false,
+        "skipLibCheck":true,
+        "allowJs": false,
+        "outDir": "../release/gamescore",
+        "declaration":true,
+        "declarationDir": "../release/d",
+        "experimentalDecorators":true,
+        // "outFile":"../deergamecore.js",
+        // "noEmitOnError":true
+    },
+
+    "include": [
+        "components/*",
+        "managers/*",
+        "managers/**/*",
+        "wechat/*",
+        "wechat/**/*",
+        "shader/*",
+        "xiaoyaoji/*",
+        // "shader/*",
+    ],
+
+    "files": [
+        "wx.d.ts",
+        "shader.d.ts",
+        "creator.d.ts",
+        // "GameCoreEvent.ts"
+    ]
+}

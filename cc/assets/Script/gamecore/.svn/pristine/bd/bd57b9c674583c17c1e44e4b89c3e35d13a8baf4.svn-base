@@ -1,0 +1,13 @@
+{
+    "extends": "./tsconfig_base.json",
+
+    "compilerOptions": {
+        "outDir": "../release/gamecore_pub",
+        "allowJs": false
+    },
+
+    "include": [
+        "managers/*",
+        "managers/**/*"
+    ]
+}

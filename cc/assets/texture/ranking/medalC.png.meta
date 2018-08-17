@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5968a219-ec4f-43bb-9f9d-b72b4869a733",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "medalC": {
+      "ver": "1.0.3",
+      "uuid": "692c9ea8-c689-4783-8081-0f09cbf8067a",
+      "rawTextureUuid": "5968a219-ec4f-43bb-9f9d-b72b4869a733",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 91,
+      "rawWidth": 68,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

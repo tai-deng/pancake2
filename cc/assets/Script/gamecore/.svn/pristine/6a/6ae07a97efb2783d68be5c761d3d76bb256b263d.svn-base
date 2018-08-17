@@ -1,0 +1,26 @@
+{
+    "extends": "./tsconfig_base.json",
+
+    "compilerOptions": {
+        "outDir": "../release/gamecore",
+        "sourceMap": false,
+        "inlineSourceMap":false,
+        "removeComments": false,
+        "allowJs": false,
+        "experimentalDecorators": true,
+        "declaration":true,
+        // "declarationDir": "../test/assets/Script/gamecore/d",
+    },
+
+    "include": [
+        "components/*",
+        "managers/*",
+        "managers/**/*",
+        "wechat/*",
+        "wechat/**/*",
+        "shader/*",
+        "shader/**/*",
+        "xiaoyaoji/*",
+        "libs/*",
+    ]
+}

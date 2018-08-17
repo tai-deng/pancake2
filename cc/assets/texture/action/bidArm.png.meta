@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9bd132df-a733-4b6b-b65e-36554dd09186",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bidArm": {
+      "ver": "1.0.3",
+      "uuid": "848aaf12-5cbc-45ae-8881-bd5c4962fb77",
+      "rawTextureUuid": "9bd132df-a733-4b6b-b65e-36554dd09186",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 152,
+      "height": 324,
+      "rawWidth": 152,
+      "rawHeight": 324,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

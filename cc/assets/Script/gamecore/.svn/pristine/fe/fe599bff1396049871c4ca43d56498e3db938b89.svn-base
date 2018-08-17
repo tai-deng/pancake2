@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES6",
+        "strict": false, 
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": false,
+        "inlineSourceMap":false,
+        // "inlineSources":false,
+        "skipLibCheck":true,
+        "allowJs": true,
+        // "outDir": "../release/gamecore_pub",
+        // "declaration":true,
+        // "declarationDir": "../release/d",
+        "experimentalDecorators":true
+        // "outFile":"../deergamecore.js",
+        // "noEmitOnError":true
+    },
+
+    "files": [
+        "wx.d.ts",
+        "shader.d.ts",
+        "creator.d.ts"
+    ]
+}
